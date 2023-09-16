@@ -1,0 +1,186 @@
+body {
+    margin: 0px;
+    background-color: black;
+    /* background-image: url("https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/6/18/jnhtjx1nozaocxki9ekx/ios-racers-lead-asphalt-9"); */
+
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.main1 {
+    text-align: right;
+    border: 1px solid;
+    background-image: url("https://media.istockphoto.com/id/1337108175/vector/dark-gray-3d-hexagonal-technology-vector-abstract-background.jpg?s=612x612&w=0&k=20&c=RYHI2M_KPCMORuSJKZ_klHmWURsZpgrnmfyDnvBNM1Y=");
+    /* position: fixed; */
+}
+
+.main1 ul li {
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    padding: 0 15px;
+}
+
+.main1 ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+.content21 {
+    position: absolute;
+    top: 1000px;
+    left: 250px;
+    color: white;
+    text-align: center;
+    padding: 20px 0px;
+    /* position: relative; */
+}
+
+
+.content21 h1 {
+    font-size: 50px;
+}
+
+.content21 p {
+    font-size: 25px;
+    padding: 0px 10px;
+}
+
+.content21   h1 span {
+    color: yellow;
+    font-size: 70px;
+}
+
+.main1 ul li a:hover {
+
+    background-color: yellow;
+    color: black;
+}
+
+.main1 img {
+    display: inline;
+    width: 80px;
+    height: 50px;
+    float: left;
+    padding: 0px 7px;
+}
+
+.main1 h3 {
+    display: inline;
+    text-align: left;
+    color: white;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: bold;
+    font-size: 24px;
+    margin: 15px 0px;
+}
+
+.main1 h3 span {
+    color: yellow;
+}
+.game{
+text-align: center;
+color: white;
+font-size: 25px;
+}
+
+.box {
+    display: flex;
+    text-align: center;
+    padding: 0px 70px;
+
+}
+
+.box .boxs {
+    box-sizing: border-box;
+    /* border: 2px solid red; */
+    width: 500px;
+    height: 350px;
+    color: white;
+    padding: 33px 7px;
+}
+
+/* .box1 {
+    text-align: center;
+    /* border: 1px solid red; */
+    /* box-sizing: border-box;
+    width: 500px;
+    height: 400px;
+    color: white;
+    display: flex;
+    padding: 50px 15px;
+} */ */
+
+.img {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+}
+.line{
+    padding: 30px 0px;
+    width: 100%;
+}
+.contenar{
+    text-align: center;
+}
+.topic{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 20px;
+}
+.topic ul li{
+    padding: 70px 40px;
+    text-align: center;
+    /* float: right;
+    /* width: 50px;
+    height: 50px; */
+}
+ .topic ul li img::after {
+    color: #000;
+    
+}
+.bg img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+footer{
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+    background-color: white;
+    width: 100%;
+    height: 270px;
+    margin-top: 50px;
+}
+#foot {
+    text-align: center;
+    font-size: 15px;
+    color: black;
+}
+#foot form{
+    padding: 10px 0px;
+    margin-top: 10px;
+    background-image: url("https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?cs=srgb&dl=pexels-lucie-liz-3165335.jpg&fm=jpg");
+}
+.list{
+    color:white;
+    padding: 10px 0px;
+    text-align: center;
+
+}
+#foot h6{
+    font-size: 14px;
+    color: white;
+    margin-top: 18px;
+}
+#sect{
+    border: 1px solid red;
+    box-sizing: border-box;
+    width: max-content;
+    height: 100%;
+}
